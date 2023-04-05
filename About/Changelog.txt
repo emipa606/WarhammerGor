@@ -1,0 +1,4 @@
+# Changelog for WarhammerGor
+
+1.4.0 - First publish
+

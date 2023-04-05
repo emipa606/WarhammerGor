@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>BullgorHead</defName>
+    <graphicPath>Things/Beastmen/BullgorHead/Long</graphicPath>
+    <gender>None</gender>
+  </HeadTypeDef>
+</Defs>

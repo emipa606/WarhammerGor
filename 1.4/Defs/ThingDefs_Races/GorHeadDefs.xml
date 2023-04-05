@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>GorHead_Average_Pointy</defName>
+    <graphicPath>Things/Beastmen/Heads/Average_Pointy</graphicPath>
+    <gender>None</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>GorHead_Bulky_Pointy</defName>
+    <graphicPath>Things/Beastmen/Heads/Bulky_Pointy</graphicPath>
+    <gender>None</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>GorHead_Hairy_Pointy</defName>
+    <graphicPath>Things/Beastmen/Heads/Hairy_Pointy</graphicPath>
+    <gender>None</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>GorHead_Long_Pointy</defName>
+    <graphicPath>Things/Beastmen/Heads/Long_Pointy</graphicPath>
+    <gender>None</gender>
+  </HeadTypeDef>
+</Defs>

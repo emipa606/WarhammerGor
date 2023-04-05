@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>UngorHead_Average_Normal</defName>
+    <graphicPath>Things/Beastmen/UnHeads/Average_Normal</graphicPath>
+    <gender>None</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>UngorHead_Slender_Normal</defName>
+    <graphicPath>Things/Beastmen/UnHeads/Slender_Normal</graphicPath>
+    <gender>None</gender>
+  </HeadTypeDef>
+</Defs>
