@@ -1,4 +1,7 @@
 # Changelog for WarhammerGor
 
+1.4.1 - Added missing culture to the breastmen causing issues with ideology scenario start
+
+
 1.4.0 - First publish
 

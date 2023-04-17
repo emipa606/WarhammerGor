@@ -86,6 +86,9 @@
         </categories>
       </li>
     </backstoryFilters>
+    <allowedCultures>
+      <li>Corunan</li>
+    </allowedCultures>
     <factionIconPath>Things/World/GorIconSecond</factionIconPath>
     <settlementTexturePath>World/WorldObjects/Expanding/Town</settlementTexturePath>
     <playerInitialSettlementNameMaker>NamerInitialSettlementColony</playerInitialSettlementNameMaker>
