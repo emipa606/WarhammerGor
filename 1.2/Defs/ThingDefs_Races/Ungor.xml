@@ -97,7 +97,7 @@
         <factionRelations>
           <li>
             <factions>
-              <li MayRequire="Kompadt.Warhammer.Deathjacks">DeathjacksFaction</li>
+              <li MayRequire="Mlie.WarhammerDeathjacks">DeathjacksFaction</li>
             </factions>
             <goodwill>
               <min>-100</min>
