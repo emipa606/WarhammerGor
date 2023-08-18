@@ -128,6 +128,7 @@
                   <groups>
                     <li>UpperHead</li>
                     <li>FullHead</li>
+                    <li>Eyes</li>
                   </groups>
                   <parts>
                     <li>
@@ -136,6 +137,7 @@
                       <groups>
                         <li>UpperHead</li>
                         <li>FullHead</li>
+                        <li>Eyes</li>
                       </groups>
                     </li>
                   </parts>
@@ -189,7 +191,18 @@
                   <groups>
                     <li>Teeth</li>
                     <li>FullHead</li>
+                    <li>Mouth</li>
                   </groups>
+                  <parts>
+                    <li>
+                      <def>Tongue</def>
+                      <coverage>0</coverage>
+                      <depth>Inside</depth>
+                      <groups>
+                        <li>FullHead</li>
+                      </groups>
+                    </li>
+                  </parts>
                 </li>
                 <li>
                   <def>GorLeftHorn</def>

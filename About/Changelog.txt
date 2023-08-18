@@ -1,5 +1,8 @@
 # Changelog for WarhammerGor
 
+1.4.3 - Added some body-tags to support special apparel like blindfolds
+
+
 1.4.2 - Updated the mayrequire-tags to the continued mod-versions
 
 
